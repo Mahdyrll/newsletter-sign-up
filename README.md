@@ -22,7 +22,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/newsletter-sign-up-using-vue-js-q_zW6hD0fG)
 - Live Site URL: (https://mahdyrll.github.io/newsletter-sign-up/)
 
 ## My process
