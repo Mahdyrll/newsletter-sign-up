@@ -30,7 +30,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 ### Built with
 
 - [Vue.js](https://vuejs.org/) - JS library
-- [Vee Validate](https://vee-validate.logaretm.com/)
+- [Vee Validate](https://vee-validate.logaretm.com/) - Handling forms
 - [Tailwind css](https://tailwindcss.com/) - For styles
 
 ### What I learned
